@@ -274,20 +274,6 @@ Daily Python solutions for the complete NeetCode 150 roadmap with clean, optimiz
 
 ---
 
-# 💻 Most Used Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-0206&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-</p>
-
----
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=aryan-0206&theme=algolia&no-frame=true&row=2&column=4"/>
-</p>
-
----
 
 # 📈 Contribution Graph
 
@@ -358,7 +344,6 @@ Daily Python solutions for the complete NeetCode 150 roadmap with clean, optimiz
 
 🟡 System Design            █████░░░░░ 50%
 
-🟡 Kubernetes               ███░░░░░░░ 30%
 ```
 
 ---
@@ -404,20 +389,17 @@ Daily Python solutions for the complete NeetCode 150 roadmap with clean, optimiz
 
 ---
 
-# 💜 Thanks for Visiting
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!;Let's+Build+Something+Awesome!;Happy+Coding!+🚀"/>
-
-</div>
-
 ---
 
 <div align="center">
 
-### ⭐ If you like my work, consider giving a star to my repositories!
+## 💜 Thanks for Visiting
+
+*"Building today for a better tomorrow."*
+
+⭐ **Feel free to explore my repositories and connect with me!**
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=120&section=footer"/>
-
 </div>
