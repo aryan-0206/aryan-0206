@@ -204,25 +204,53 @@ Responsive developer portfolio showcasing projects, skills and achievements.
 
 <tr>
 
-<td width="50%">
+<td width="50%" align="center">
 
 <h3 align="center">📈 Habit Tracker</h3>
 
 <p align="center">
 
-Track habits, monitor consistency and visualize progress.
+Track habits, monitor consistency, build productive routines, and visualize your daily progress through a modern and intuitive interface.
+
+<br><br>
+
+<a href="https://habit-tracker-pro-1-a51y.onrender.com">
+
+<img src="https://img.shields.io/badge/🚀_Live_Demo-7C3AED?style=for-the-badge"/>
+
+</a>
+
+<a href="https://github.com/aryan-0206/Habit-Tracker-Pro_Demo">
+
+<img src="https://img.shields.io/badge/💻_GitHub_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
 
 </p>
 
 </td>
 
-<td width="50%">
+<td width="50%" align="center">
 
 <h3 align="center">💻 NeetCode 150</h3>
 
 <p align="center">
 
-Daily Python solutions for the complete NeetCode roadmap.
+Daily Python solutions for the complete NeetCode 150 roadmap with clean, optimized code and interview-focused explanations.
+
+<br><br>
+
+<a href="https://neetcode.io/roadmap">
+
+<img src="https://img.shields.io/badge/📚_Roadmap-7C3AED?style=for-the-badge"/>
+
+</a>
+
+<a href="https://github.com/aryan-0206/neetcode-submissions">
+
+<img src="https://img.shields.io/badge/💻_GitHub_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
 
 </p>
 
