@@ -1,16 +1,21 @@
-## Hi there 👋
+-------------------------------------------------
+Hi 👋 I'm Aryan Rajbhar
 
-<!--
-**aryan-0206/aryan-0206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer
+Web Developer
+AI Enthusiast
 
-Here are some ideas to get you started:
+Currently Learning
+✔ System Design
+✔ DSA
+✔ Backend
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building
+🔥 Dark AI
+🔥 Habit Tracker
+
+Connect
+LinkedIn
+Portfolio
+Email
+-------------------------------------------------
