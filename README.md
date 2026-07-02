@@ -359,30 +359,24 @@ Daily Python solutions for the complete NeetCode 150 roadmap with clean, optimiz
 
 ---
 
-# 🤝 Connect With Me
+## 🤝 Connect With Me
 
 <p align="center">
 
 <a href="mailto:rajbhararyan2003@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="48"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/aryan-rajbhar-4970072a4/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-&nbsp;&nbsp;
 
 <a href="https://github.com/aryan-0206">
-<img src="https://skillicons.dev/icons?i=github" height="48"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-&nbsp;&nbsp;
-
 <a href="https://aryan-portfolio.rajbhararyan2003.workers.dev/">
-<img src="https://img.icons8.com/fluency/48/domain.png"/>
+<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </p>
