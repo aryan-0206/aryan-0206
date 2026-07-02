@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="YOUR_BANNER_URL" width="100%" alt="Aryan Rajbhar Banner"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aryan-0206/aryan-0206/main/banner.png" alt="Aryan Rajbhar Banner" width="100%" />
+</p>
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Aryan Rajbhar
 
